@@ -1,0 +1,6 @@
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.exe.config
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.exe
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\bin\Debug\BusinessRuleEngine.pdb
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.exe
+C:\Users\1025123\OneDrive - JDA Software Inc\PRASHANT\Visual Studio\BusinessRuleEngine\obj\Debug\BusinessRuleEngine.pdb
